@@ -70,7 +70,14 @@ Aqui é onde eu documeto meu progresso em tickets e labs que eu realizo em plata
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/portswigger/FF6633"
 />
-
+<img 
+    align="left" 
+    alt="VirusTotal"
+    title="VirusTotal" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/virustotal/394EFF"
+/>
 </br>
 </br>
 
