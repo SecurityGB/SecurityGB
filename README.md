@@ -4,7 +4,7 @@
 
 Olá, me chamo Gabriel.
 
-Iniciei minha jornada em tecnologia prestando suporte e atuando na linha de frente da resolução de problemas. Hoje, atuando como Analista de NOC e recém-certificado CompTIA Security+ e graduando Cibersegurança na UNINTER, utilizo todo o meu background em conectividade e sistemas de monitoramento para me aprofundar na Defesa Cibernética (Blue Team).
+Iniciei minha jornada em tecnologia prestando suporte e atuando na linha de frente da resolução de problemas. Hoje, atuando como Analista de NOC, certificado no CompTIA Security+ e graduando Cibersegurança na UNINTER, utilizo todo o meu background em conectividade e sistemas de monitoramento para me aprofundar na Defesa Cibernética (Blue Team).
 
 Você pode se conectar comigo também via linkedin "[Gabriel Coelho](https://www.linkedin.com/in/gbsec/)"
 
