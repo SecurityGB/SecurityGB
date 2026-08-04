@@ -52,7 +52,7 @@ Aqui é onde eu documeto meu progresso em tickets e labs que eu realizo em plata
     title="TryHackMe" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/tryhackme/212C42"
+    src="https://cdn.simpleicons.org/tryhackme/9FEF00"
 />
 <img 
     align="left" 
